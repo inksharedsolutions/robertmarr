@@ -12,15 +12,16 @@ const Banner = ()=>{
                             <div className="banner-text">
                     
                                 <h1>
-                                   All flesh 
+                                  The End
                                 </h1>
 
                                 <p className="right-sub-text">
                                    <span>
-                                      will die one day and leave this world
-                                      we now live in.  But the soul will live on.
-                                      There is a choice individual have to make--who
-                                      will be your choice the world or the Kingdom of God.
+                                      of times is inevitable, and the only
+                                      way to be prepared is to study, lookout
+                                      for the signs, use your judgment to steer 
+                                      you to becoming one with God when the day
+                                      of retribution comes.
                                    </span>
                                 </p>
                                 
