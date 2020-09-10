@@ -7,7 +7,8 @@ import React from 'react'
             <section className="parallax-bottom">
                 <div className="flex-container">
                     <h1>
-                      History and the Scripture closely intertwine that by studying one, you learn more about the other.
+                        History and the Scripture closely intertwine
+                        that by studying one, you learn more about the other.
                         <span className="italic-tag span-verse">
                            Robert Marr
                         </span>

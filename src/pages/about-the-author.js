@@ -24,7 +24,7 @@ const ATB = (props)=>{
 
                             <div className="heading-quote">
                                 <h4>
-                                  “All Flesh Will Die One Day And Leave This World We Now Live In. But The Soul Will Live On. There Is A Choice Individual Have To Make--Who Will Be Your Choice The World Or The Kingdom Of God”.
+                                  “History and the Scripture closely intertwine that by studying one, you learn more about the other”.
                                 </h4>
                                 <span className="ata-span-fx">
                                     author quote
